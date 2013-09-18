@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color: #DDDDDD;
+}
+blockquote{
+	text-align: center;
+	color: purple;
+}
+#greeting-name{
+	text-align: center;
+}
